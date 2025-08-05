@@ -21,7 +21,7 @@ The script automates the process of data extraction by handling API authenticati
 ## Prerequisites
 
 -   [Node.js](https://nodejs.org/) (v14.x or later is recommended).
--   Your Definitive API Key, API Secret, and Organization ID.
+-   Your Definitive API Key, API Secret, and Organization ID. Found here (https://app.definitive.fi/account/organization)
 
 ## Installation
 
